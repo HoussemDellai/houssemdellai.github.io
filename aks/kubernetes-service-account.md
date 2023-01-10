@@ -1,11 +1,8 @@
-# layout: page
-# title: "Kubernetes Service Account"
-# permalink: /aks/kubernetes-service-account
-
 ---
+layout: page
+title: "Kubernetes Service Account"
+permalink: /aks/kubernetes-service-account
 type: docs
-title: "Installation"
-linkTitle: "Installation"
 weight: 1
 description: >
   How to install Secrets Store CSI Driver and Azure Key Vault Provider on your clusters.
