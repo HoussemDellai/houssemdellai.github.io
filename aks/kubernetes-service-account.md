@@ -1,7 +1,3 @@
-layout: page 
-title: "Kubernetes Service Account" 
-permalink: /aks/kubernetes-service-account
-
 # Kubernetes Service Account
 
 ## Introduction
