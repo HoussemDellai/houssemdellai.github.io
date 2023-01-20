@@ -1,7 +1,3 @@
-layout: page 
-title: "Using Azure Blob Fuse with Managed Identity in AKS" 
-permalink: /aks/aks-blobfuse-msi
-
 # Azure Blob Fuse with Managed Identity in AKS
 
 ## Introduction
