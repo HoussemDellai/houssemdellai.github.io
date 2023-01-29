@@ -1,3 +1,7 @@
+---
+id: getting-started
+---
+
 # Azure Blob Fuse with Managed Identity in AKS
 
 ## Introduction

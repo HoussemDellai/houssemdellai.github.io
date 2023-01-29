@@ -15,3 +15,6 @@ title: Houssem Dellai videos
 description: Learn about Azure, Kubernetes, Terraform and DevOps
 show_downloads: false # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
+
+sidebar:
+  - getting-started
