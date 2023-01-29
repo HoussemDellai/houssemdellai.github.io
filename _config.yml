@@ -8,8 +8,7 @@
 # kramdown:
 #   math_engine: mathjax
 #   syntax_highlighter: rouge
-# remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Houssem Dellai videos
